@@ -1,2 +1,0 @@
-# arcanoid
-Created with CodeSandbox
